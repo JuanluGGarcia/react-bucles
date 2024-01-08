@@ -3,7 +3,7 @@ import Menu from "./components/menu/menu";
 
 const App = () => {
 	return (
-		return <Menu />
+		<Menu />
 	);
 };
 
